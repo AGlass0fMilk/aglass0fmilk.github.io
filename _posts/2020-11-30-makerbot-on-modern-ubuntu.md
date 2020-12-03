@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Running Makerware on Modern Ubuntu"
+author: "George Beckstein"
+categories: engineering
+tags: [3dprinting, engineering, ubuntu]
+---
+
 I remember the early days when "at-home" 3D printing started to become a possibility. As an electronics engineer and hobbyist, a 3D printer was an ideal way to solve all my custom enclosure needs! At the time though (around 2013-2014), most of the available 3D printers that were actually reliable were well beyond my minimum wage college student budget.
 
 This was especially the case for the Makerbot Replicator 2, which at the time retailed for over $2,000! Fast forward a few years and a startup I was working for right out of college was closing its doors. I was one of the last employees and had become close with the CEO/Founder. When he shut down he made me a deal: $300 and I could have the Makerbot, all the filament, and a bunch of rework tools!
