@@ -9,7 +9,7 @@ image: body-mount-spacer/gmc-body-mount-spacer-dwg.jpeg
 
 # Making New Body Mounting Plates for the Shack on Wheels
 
-There are a number of mounting points that on GMC MotorHome that secure the body to the frame. 
+There are a number of mounting points on GMC MotorHomes that secure the body to the frame. 
 
 Down the middle there are four "L"-shaped plates bolted to the frame with steel straps that clamp these plates down to the body. You would imagine these would be bolted through the aluminum ladder that supports the floor of the body, but no! Surprinsingly, these straps simply bolt to carriage bolts that go through the 1" plywood floor!
 
@@ -61,7 +61,7 @@ The knurled neck of the bolts extend an 1/8" beyond the plate so I also ordered 
 
 With the parts in hand, I had to put the holes in place. Luckily I knew just who to call!
 
-A couple years ago, an older coworker of mine borrowed my engine crane to move a mill he has bought used. So I called in a favor :)
+A couple years ago, an old coworker of mine borrowed my engine crane to move a mill he has bought used. So I called in a favor :)
 
 I had only ever used a mill once, and it was a fairly tame bench top unit. I wasn't expecting the beast of a machine my friend had in his home shop!
 
