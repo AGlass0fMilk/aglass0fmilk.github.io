@@ -270,10 +270,10 @@ message sent: 6
 message received: 5
 ```
 
-LED1 and LED2 should be alternately blinking as well.
+LED1 and LED2 should be blinking at the same time as well.
 
-### Example explanation
+That's it, you're ready to use the TCAN455x in your project! Just make sure to hook up the pins in a similar manner.
 
+If you find a bug or improvement for the driver, please submit an issue on GitHub, or even better submit a pull request!
 
-
-## Resources and Going Further
+[//]: # (Resources and Going Further Section)
