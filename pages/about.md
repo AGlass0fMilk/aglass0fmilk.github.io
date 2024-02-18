@@ -8,7 +8,7 @@ posted-by: George
 
 I am an embedded software engineer and car enthusiat, among other things.
 
-This website is a scratchpad for me (George Beckstein) and my girlfriend (Claudia). You can stay up to date on the fascinating things I do :)
+This website is a scratchpad for me. You can stay up to date on the fascinating things I do :)
 
 I've wanted to start a blog for a long time -- a few years actually. So I have quite a backlist of posts and many pictures to go through... So from time to time I may make posts backdated by a while :D
 
@@ -30,4 +30,4 @@ When it's not snowing here in Western New York _and_ if I'm not playing with ele
 
 My latest project and retirement plan, the namesake for this website, is a 1973 GMC MotorHome originally bought by my grandfather brand new. It's been in my family ever since. And yes, I've taken road trips in it! Only when I was a kid, but still I have fond memories of the thick shag carpet. Close to 50 years on, it needs _just a bit_ of work...
 
-Follow along as Claudia and I restore our future "Shack on Wheels" :)
+Follow along as I restore my future "Shack on Wheels" :)
