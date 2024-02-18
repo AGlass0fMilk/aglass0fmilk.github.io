@@ -45,7 +45,9 @@ Through GMC specialists, the rubber body mounts are actually available brand new
 
 I'm a bit surprised these plates aren't available -- I can't be the only one to break these bolts off when doing a frame replacement!
 
-Regardless, I started by measuring the bolts and finding a suitable replacement. Thankfully, McMaster Carr had almost exactly what I needed, 1.5" long, 3/8-16 knurled neck carriage bolts (McMaster part number 98060A830).
+Regardless, I started by measuring the bolts and finding a suitable replacement. Thankfully, McMaster Carr had almost exactly what I needed, 1.5" long, 3/8-16 knurled neck carriage bolts (McMaster part number 98060A830). 
+
+Note that the knurled neck on these is a bit longer (5/8") than the originals, so you may need an extra thick washer to take up the slack between the frame mount and the threads of the carriage bolt. For this purpose, I ordered McMaster 98025A031 (3/8" grade 8 washer, 0.11"-0.126" thick) but I haven't used them yet. The plate is about 1/2" thick and off hand I'd estimate the frame mount steel to be about 14ga-16ga, so a regular washer may or may not work.
 
 Next, I had to source the aluminum stock. After measuring the plates and a quick search online, I found a metal supplier that would cut some 1/2" aluminum plate to size for me for a decent price. It was surprisingly easy and cost effective to order from [Midwest Steel and Aluminum](https://www.midweststeelsupply.com/store/). They were by far the cheapest source I could find for cut-to-size aluminum plate. It was around $35 for six plates, shipped! It did take a couple weeks, but I was really happy with the price and no MOQ.
 
