@@ -15,8 +15,11 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "The Shack on Wheels"
-description:	       "George Beckstein's personal blog"
+description:	       "My personal blog"
 author:              "George Beckstein"
+
+# Google Analytics
+google_analytics: G-8ZQHRR9C3P
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

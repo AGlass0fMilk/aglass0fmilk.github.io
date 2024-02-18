@@ -28,7 +28,9 @@
   </script>
 
   <!-- Google Analytics -->
-  {% include google-analytics.html %}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
